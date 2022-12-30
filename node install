@@ -1,0 +1,1 @@
+npm install express-session method-override mongoose morgan passport passport-local passport-local-mongoose uuid body-parser ejs express 
